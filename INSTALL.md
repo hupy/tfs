@@ -21,6 +21,7 @@
     *   [下载源码安装][5]
     *   apt-get install uuid-dev
     *   yum install e2fsprogs-devel.x86_64
+    *   yum -y install libuuid-devel
 *   tcmalloc google的内存管理库 
     *   [下载源码安装][6]
     *   apt-get install libgoogle-perftools-dev
